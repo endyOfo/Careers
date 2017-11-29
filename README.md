@@ -126,12 +126,7 @@ The entity models are all located within the following folder:
 app\code\local\Ubt\Careers\Model
 ```
 
-        * [table](#ubt_careers_storeview)
-        * [table](#ubt_careers_thirdpartysites)
-        * [table](#ubt_careers_permittedfileextensions)
-        * [table](#ubt_careers_jobapplicants)
-
-
+    
  **1 - ubt_careers_vacancy** </br>
 This is the main data entity [table](#ubt_careers_vacancy) for the module and contains all data relevant to a particular vacancy. It is reliant on some of the other entities to the extent that it requires look up for some of its columns. For example, the column **'job_location'** only contains the Id of partiular locations. However, in order to get the actual location name  we need to look up its value in the corresponding column (**location_id**) of the  **ubt_careers_officelocation**.
 
