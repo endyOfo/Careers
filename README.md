@@ -1,8 +1,8 @@
-# UBTeam UK Website – Careers Module 
+ Careers Module 
 <a id="top"></a>
 [![N|magento](https://cldup.com/dTxpPi9lDf.thumb.png)](https://magento.com/)</br>
 Author: Endy Ofo </br>
-Contact: endyofo@yahoo.com  -  07584 020 871 </br>
+</br>
 
 Custom Magneto module to allow advertising of job vacancies. Content management users can add/delete or edit job vacancies to the business website. Potential applicants can view and apply for vacancies. 
 
